@@ -1,2 +1,1 @@
-# lotusprogramming
-LotusProgramming.com website
+# LotusProgramming.com website
