@@ -1,5 +1,3 @@
-// This document servers as a simple way to keep tracking of the LotusProgramming setup and backend workings.
-
 Release Process:
 -----------------
 For now we will consider releasing every 2 weeks or as incements made. 
