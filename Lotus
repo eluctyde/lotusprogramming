@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T03:26:04.971Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="3lzem6gXL8Rp6bXXwMKz" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T03:29:47.644Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15" etag="ceamt4o5w-f62ayOXEUA" version="20.0.4" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1186" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -10,13 +10,13 @@
         <mxCell id="3" value="Knowledge Base" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="662" y="345.5" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Languages ( C/C#/etc)" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="4" value="IT News" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="302" y="455.5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="Design Patterns" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="5" value="IT Questions &amp; Answers" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="542" y="455.5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="Testing" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="6" value="Training &amp; Consulting" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="872" y="455.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7" value="Contact/About" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
@@ -49,7 +49,7 @@
         <mxCell id="15" value="Algorithms" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="552" y="795.5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="16" value="Office of&#xa;Data Services" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="16" value="Frameworks" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="552" y="885.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="18" value="Testing &amp; Automation" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
@@ -67,7 +67,7 @@
         <mxCell id="23" value="Security" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1092" y="615.5" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="24" value="Office of Regulatory Policy" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="24" value="Secure coding practices" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1092" y="705.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="25" value="Office Compliance" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" parent="1" vertex="1">
@@ -238,7 +238,7 @@
             <mxPoint x="651.5" y="975.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lOLYjC5ntCI99jueRfH8-59" value="Office of Training Services" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="lOLYjC5ntCI99jueRfH8-59" value="Cloud &amp; Networking" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="552" y="975.5" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
